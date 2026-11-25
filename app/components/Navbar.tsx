@@ -11,8 +11,10 @@ export default function Navbar() {
       <div className="nav-links">
         <Link href="/">Home</Link>
         <Link href="/study-tips">Study Tips</Link>
+        <Link href="/motivation">Daily Motivation</Link>
+         <Link href="/planner">My Planner</Link>
+        <Link href="/about">About</Link>
       </div>
     </nav>
   );
 }
-
